@@ -1,6 +1,5 @@
 # Experienced-Projects
-
-1) Impact Analysis Dashboard
+1)Impact Analysis Dashboard
 Introduced a feature to map skills to different personas (roles), allowing
 for a granular analysis.
 Designed functionality to track and analyze 360-degree assessments for
